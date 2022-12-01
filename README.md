@@ -1,16 +1,25 @@
-# conversor
+# Conversão de Moedas - Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter application.
+https://user-images.githubusercontent.com/70405308/205092656-adc9fd4b-d876-476a-9dde-bb5be300ee3b.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Esse Conversor de Moedas foi feito em Dart + Flutter. O conversor faz converções em tempo real para várias moedas ao mesmo tempo, são elas, Real, Dolar, Euro, Peso Argentino, Dolar Canadense, Dolar Australiano, Yen Japonês e Bitcoin. Para finalizar, todos os dados das cotações das moedas foram pegos da API: HG Brasil Finance.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Validação de conexão com Internet
+* Conversão para várias moedas de uma vez
+* Conversão em tempo real 
+* Validação de formulário
+* Validação de dados da API
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* API: HG Brasil
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📌 Links
+* [HG Brasil](https://hgbrasil.com)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
