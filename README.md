@@ -1,4 +1,4 @@
-# Conversão de Moedas - Dart + Flutter
+# Conversor de Moedas - Dart + Flutter
 ## 📷 Video do Projeto
 
 https://user-images.githubusercontent.com/70405308/205092656-adc9fd4b-d876-476a-9dde-bb5be300ee3b.mp4
